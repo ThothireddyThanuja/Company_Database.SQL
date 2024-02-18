@@ -1,1 +1,1 @@
-# Company_Database.SQL
+# Company_Database.Sql
